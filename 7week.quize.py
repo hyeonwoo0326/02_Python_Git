@@ -26,6 +26,7 @@ gugudan_3.output()
 
 
 #3
+#자동차 정보 확인 클래스
 class Car:
     def __init__(self, model, color, mileage):
         self.model = model #모델명
